@@ -1,0 +1,42 @@
+{
+  "z-warriors": [
+    {
+      "id": 1,
+      "name": "Krillin",
+      "race": "Human",
+      "transformation": "none"
+    },
+    {
+      "id": 2,
+      "name": "Vegeta",
+      "race": "Saiyan",
+      "transformation": "Super Saiyan Blue"
+    },
+    {
+      "id": 3,
+      "name": "Trunks",
+      "race": "Saiyan",
+      "transformation": "Super Saiyan 2"
+    }
+  ],
+  "z-villains": [
+    {
+      "id": 1,
+      "name": "Freeza",
+      "race": "Clan Freeza",
+      "transformation": "Golden Freeza"
+    },
+    {
+      "id": 2,
+      "name": "Cell",
+      "race": "Android",
+      "transformation": "Ultimate Cell"
+    },
+    {
+      "id": 3,
+      "name": "Majin Buu",
+      "race": "Majin",
+      "transformation": "Kid Buu"
+    }
+  ]
+}
